@@ -1,0 +1,22 @@
+{
+  "name": "YaNails Beauty",
+  "short_name": "YaNails",
+  "description": "Uñas y belleza - Tu espacio de cuidado personal",
+  "start_url": "/yanails-beauty/",
+  "scope": "/yanails-beauty/",
+  "display": "standalone",
+  "background_color": "#ec4899",
+  "theme_color": "#ec4899",
+  "icons": [
+    {
+      "src": "/yanails-beauty/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/yanails-beauty/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

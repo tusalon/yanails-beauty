@@ -1,0 +1,61 @@
+✨ ¡Hola! Tu sistema de reservas para YaNails Beauty ya está listo ✨
+
+⚙️ Tu panel de administración:
+https://tusalon.github.io/rservasroma/admin.html?s=yanails-beauty
+
+🔑 Datos de acceso:
+• Usuario: yanails-beauty
+• Contraseña: 7f0ea911
+
+📌 Primeros pasos (5 minutos):
+1. Entra al panel con tu usuario y contraseña
+2. Te va a guiar paso a paso: quién atiende, tus servicios
+   principales y las horas en que trabajas
+3. Al terminar ¡ya puedes recibir reservas! 🎉
+4. Comparte tu enlace con tus clientas desde el botón 🔗
+
+📲 Instala el panel como app en tu iPhone (hazlo primero):
+• Abre el enlace del panel en Safari
+• Toca Compartir ⬆️ → "Añadir a pantalla de inicio"
+• Desde ahora entra siempre por ese ícono, no por el navegador
+
+🔔 Notificaciones al instante:
+Con la app ya instalada, toca el botón 🔔 dentro del panel y acepta el
+permiso. Te va a llegar un aviso cada vez que entre una reserva, una
+cancelación o un pago — y cada mañana, el resumen de tus turnos del día.
+📱 Necesitas iOS 16.4 o más nuevo. Si tienes uno anterior, escríbeme.
+
+👭 La app para tus clientas:
+Cuando les compartas tu enlace, cada clienta puede dejarlo como app en su
+celular. Pásales esto según su teléfono:
+
+• Android — que descargue e instale este archivo:
+  https://github.com/tusalon/rservasroma-clientes/releases/latest/download/rservasroma-clientes.apk
+• iPhone — no se pueden instalar apps fuera de la App Store, así que se hace
+  desde el navegador: que abra tu enlace en Safari, toque Compartir ⬆️ y
+  luego "Añadir a pantalla de inicio". Le queda el ícono igual que una app.
+
+La app de tus clientas se actualiza sola: siempre abre la versión más nueva,
+nadie tiene que reinstalar nada.
+
+🗓️ Lo que ya viene listo en tu panel:
+• Horarios por día: marcas las horas exactas en que atiendes
+• Días especiales: horario distinto para feriados o semanas puntuales
+• Catálogo de diseños: subes tus fotos y tus clientas eligen el
+  diseño al reservar
+• Fidelización: cada X citas, la siguiente lleva descuento automático
+• "Turnos de mañana": le recuerdas por WhatsApp a tus clientas
+  con un solo toque
+• Cobro real de cada cita y estadísticas de tu mes
+• Idioma español/inglés y tu moneda según tu país
+
+💅 Datos que cargué por ti:
+• Teléfono: 53265983
+• Email: yanayperezurquijo@gmail.com
+(Los cambias cuando quieras en "Editar Negocio" 💖)
+
+Cualquier duda escríbeme al wa.me/+15154650340 🚀
+
+🏠 La Casa de la Comunidad RservasRoma — aquí compartimos ideas,
+novedades y nos ayudamos entre salones:
+https://chat.whatsapp.com/E8S5IQrEHSEIq7Yt2jFiG1?s=cl&p=a&mlu=4&ilr=4
